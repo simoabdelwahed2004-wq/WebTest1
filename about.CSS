@@ -1,0 +1,26 @@
+*{margin: 0%;padding: 0%;}
+.T1{ float: left;font-size: 31px;border-radius: 100%;background-color: gray; }
+ul{ float: right;list-style: none;}
+li:hover{background-color: rgb(179, 179, 179);}
+li{ float: left;padding: 10px; font-size: 20px; }
+nav{ height: 67px; background-color: rgb(93, 93, 235);}
+a{ text-decoration: none; color: white;}
+.BTN1{border-radius: 100%;background: red;color: white;padding: 5px;margin-top: 25px;}
+.CONTENT{background-image: url("IMAG.jpeg");background-size: cover;height:600px;text-align: center; background-attachment: fixed;}
+.C1{padding: 150px;}
+.T2{font-size: 50px;color: beige;}
+.P1{margin-top: 27px;color: white; }
+.T3{text-align: center;font-size: 35px;color: blue; margin: 20px;}
+.D1{ width: 70%;float: left; ;}
+.D2{ width: 30%;float: right;}
+.I1{ width: 400px;}
+.BTN2{border-radius: 100%;background: red;color: white;padding: 5px;margin-top: 25px; margin-left: 500px}
+.T4 { text-align: center;margin-left: auto;margin-right: auto; display: block;width: fit-content; font-size:  35px; color: blue;margin-top: 20px;}
+.D{float: left;width:31.5% ;height: 150px;padding: 10px; background-color: rgb(196, 196, 196);}
+h3{ text-align: center; margin-bottom: 10px;}
+.D:hover{background-color: white;}
+h1{ text-align: center;font-size:31px; color: blue;}
+.BTN3{border-radius: 100%;background: red;color: white;padding: 5px;margin-top: 10px; margin-left: 100px}
+.D3{  width: 35%; float: left;}
+footer { text-align: center; background-color: blue; height: 35px;color: white;}
+#P{text-align: left; font-size: x-large; }
