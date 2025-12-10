@@ -24,3 +24,32 @@ h1{ text-align: center;font-size:31px; color: blue;}
 .D3{  width: 35%; float: left;}
 footer { text-align: center; background-color: blue; height: 35px;color: white;}
 #P{text-align: left; font-size: x-large; }
+@media (max-width: 768px) {
+
+    nav {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav ul {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .HISTOIRE {
+        flex-direction: column;
+    }
+
+    .SERVICES {
+        flex-direction: column;
+    }
+
+    .CONTACT {
+        display: flex;
+        flex-direction: column;
+    }
+
+    iframe {
+        width: 100%;
+    }
+}
