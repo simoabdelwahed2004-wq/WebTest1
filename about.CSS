@@ -23,7 +23,7 @@ h1{ text-align: center;font-size:31px; color: blue;}
 .BTN3{border-radius: 100%;background: red;color: white;padding: 5px;margin-top: 10px; margin-left: 100px}
 .D3{  width: 35%; float: left;}
 footer { text-align: center; background-color: blue; height: 35px;color: white;}
-#P{text-align: left; font-size: x-large; }
+P{text-align: left; font-size: x-large; }
 @media (max-width: 768px) {
 
     nav {
